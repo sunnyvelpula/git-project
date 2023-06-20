@@ -1,6 +1,7 @@
 Hi 
 My Name is Prasanna Kumar
 Am from Warangal
+<<<<<<< HEAD
 there is a rebase and squash
 lkhhuifnajiuhmnjahjkdnjk
 jbdnhijnfjnahjnfh
@@ -12,3 +13,7 @@ ohusjdnjkjnm,
 848515464
 errgbgsjvcnbhj
 erroe
+=======
+iam sitting with my chandrakanth
+hi hello
+>>>>>>> refs/remotes/origin/main
